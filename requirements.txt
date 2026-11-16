@@ -1,0 +1,3 @@
+# Python 3.10+ required by the downloader. The web app itself uses the standard library.
+yt-dlp==2026.11.15.232800.dev0
+playwright==1.65.2
